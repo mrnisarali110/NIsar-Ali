@@ -44,10 +44,10 @@ I bridge the gap between complex technical requirements and business goals. With
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mrnisarali110&show_icons=true&theme=dark&hide_border=true" alt="Nisar's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnisarali110&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+
+[![Nisar's Stats](https://github-readme-stats.vercel.app/api?username=mrnisarali110&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnisarali110&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -55,4 +55,3 @@ I bridge the gap between complex technical requirements and business goals. With
 * **Portfolio:** [mrnisarali110.github.io/Portfolio-Resume/](https://mrnisarali110.github.io/Portfolio-Resume/)
 * **LinkedIn:** [linkedin.com/in/nisarali110](https://www.linkedin.com/in/nisarali110/)
 * **Email:** mrnisarali110@gmail.com
-* **WhatsApp:** [+92 310 2180779](https://wa.me/923102180779)
