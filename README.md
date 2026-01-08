@@ -43,14 +43,6 @@ I bridge the gap between complex technical requirements and business goals. With
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrnisarali110&show_icons=true&theme=dark&hide_border=true" height="150" alt="Nisar's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnisarali110&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect With Me
 * **Portfolio:** [mrnisarali110.github.io/Portfolio-Resume/](https://mrnisarali110.github.io/Portfolio-Resume/)
 * **LinkedIn:** [linkedin.com/in/nisarali110](https://www.linkedin.com/in/nisarali110/)
